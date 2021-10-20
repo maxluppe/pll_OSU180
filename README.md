@@ -17,6 +17,8 @@ Under construction!
 
 ## Theory & Fundamentals Concepts
 
+## Pre-layout Implementation
+
 ![](images/Captura%20de%20tela%202021-10-19%20150909.png)
 
 ![](images/Captura%20de%20tela%202021-10-19%20151034.png)
@@ -38,8 +40,6 @@ Under construction!
 ![](images/Captura%20de%20tela%202021-10-19%20152333.png)
 
 ![](images/Captura%20de%20tela%202021-10-19%20152516.png)
-
-## Pre-layout Implementation
 
 ## Post-layout Implementation
 
