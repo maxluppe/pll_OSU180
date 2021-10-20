@@ -17,6 +17,28 @@ Under construction!
 
 ## Theory & Fundamentals Concepts
 
+![](images/Captura%20de%20tela%202021-10-19%20150909.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151034.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151125.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151126.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151304.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151421.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20151919.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20152016.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20152250.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20152333.png)
+
+![](images/Captura%20de%20tela%202021-10-19%20152516.png)
+
 ## Pre-layout Implementation
 
 ## Post-layout Implementation
