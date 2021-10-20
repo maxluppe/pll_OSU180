@@ -21,6 +21,22 @@ Under construction!
 
 ![](images/Captura%20de%20tela%202021-10-19%20150909.png)
 
+```
+.include osu018.lib
+
+* Inverter Circuit
+
+V1 in 0 PULSE 0 1.8 10p 50p 50p 100n 200n
+V2 VDD 0 1.8
+
+.control
+tran 0.01ns 400ns
+plot v(in)+2 v(out)
+.endc
+
+.end
+```
+
 ![](images/Captura%20de%20tela%202021-10-19%20151034.png)
 
 ![](images/Captura%20de%20tela%202021-10-19%20151125.png)
