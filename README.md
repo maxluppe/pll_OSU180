@@ -25,6 +25,8 @@ Under construction!
 
 ![](images/Captura%20de%20tela%202021-10-19%20151125.png)
 
+```ngspice inv.cir```
+
 ![](images/Captura%20de%20tela%202021-10-19%20151126.png)
 
 ![](images/Captura%20de%20tela%202021-10-19%20151304.png)
@@ -42,5 +44,13 @@ Under construction!
 ![](images/Captura%20de%20tela%202021-10-19%20152516.png)
 
 ## Post-layout Implementation
+
+```magic -T SC??? **source**```
+
+```
+extract
+ext2spice cthresh 0
+ext2spice
+```
 
 ## Summary & Conclusion
